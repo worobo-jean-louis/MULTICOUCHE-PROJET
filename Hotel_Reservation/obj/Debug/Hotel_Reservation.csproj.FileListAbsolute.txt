@@ -1,0 +1,16 @@
+N:\projet_nilis\Hotel_Reservation\bin\Debug\Hotel_Reservation.exe.config
+N:\projet_nilis\Hotel_Reservation\bin\Debug\Hotel_Reservation.exe
+N:\projet_nilis\Hotel_Reservation\bin\Debug\Hotel_Reservation.pdb
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.csproj.AssemblyReference.cache
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.csproj.SuggestedBindingRedirects.cache
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Properties.Resources.resources
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.csproj.GenerateResource.cache
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.csproj.CoreCompileInputs.cache
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.exe
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.pdb
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Cathegorie.resources
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Chambres.resources
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Utilisateurs.resources
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Facture.resources
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Services.resources
+N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Reservation.resources
