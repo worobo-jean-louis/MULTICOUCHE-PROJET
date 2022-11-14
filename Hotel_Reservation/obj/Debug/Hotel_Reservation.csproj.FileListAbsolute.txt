@@ -14,3 +14,19 @@ N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Utilisateurs
 N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Facture.resources
 N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Services.resources
 N:\projet_nilis\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Reservation.resources
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\bin\Debug\Hotel_Reservation.exe.config
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\bin\Debug\Hotel_Reservation.exe
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\bin\Debug\Hotel_Reservation.pdb
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.csproj.AssemblyReference.cache
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.csproj.SuggestedBindingRedirects.cache
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.Chambres.resources
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.Properties.Resources.resources
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Cathegorie.resources
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Facture.resources
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Reservation.resources
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Services.resources
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.Views.Utilisateurs.resources
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.csproj.GenerateResource.cache
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.csproj.CoreCompileInputs.cache
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.exe
+E:\2022-2023\gestion hotel\MULTICOUCHE-PROJET\Hotel_Reservation\obj\Debug\Hotel_Reservation.pdb
