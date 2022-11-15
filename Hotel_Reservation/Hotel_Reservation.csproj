@@ -33,8 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -60,11 +65,35 @@
     <Compile Include="Views\Cathegorie.Designer.cs">
       <DependentUpon>Cathegorie.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\Connexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Connexion.Designer.cs">
+      <DependentUpon>Connexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\EnregistrementUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\EnregistrementUtilisateur.Designer.cs">
+      <DependentUpon>EnregistrementUtilisateur.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\Facture.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Views\Facture.Designer.cs">
       <DependentUpon>Facture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MDI_parentcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MDI_parentcs.Designer.cs">
+      <DependentUpon>MDI_parentcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Plashscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Plashscreen.Designer.cs">
+      <DependentUpon>Plashscreen.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\Reservation.cs">
       <SubType>Form</SubType>
@@ -100,8 +129,20 @@
     <EmbeddedResource Include="Views\Cathegorie.resx">
       <DependentUpon>Cathegorie.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Connexion.resx">
+      <DependentUpon>Connexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\EnregistrementUtilisateur.resx">
+      <DependentUpon>EnregistrementUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Facture.resx">
       <DependentUpon>Facture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MDI_parentcs.resx">
+      <DependentUpon>MDI_parentcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Plashscreen.resx">
+      <DependentUpon>Plashscreen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Reservation.resx">
       <DependentUpon>Reservation.cs</DependentUpon>
@@ -172,6 +213,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Ressources\icons8_condo_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ORIGINQL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueHotel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sans titre-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\template.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

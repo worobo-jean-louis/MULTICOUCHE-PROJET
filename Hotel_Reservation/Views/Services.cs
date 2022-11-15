@@ -17,10 +17,6 @@ namespace Hotel_Reservation.Views
             InitializeComponent();
         }
 
-        private void lbl_S_Click(object sender, EventArgs e)
-        {
-            DateTime date = DateTime.Now;
-            lbl_S.Text = date.ToString("h:mm:ss");
-        }
+       
     }
 }

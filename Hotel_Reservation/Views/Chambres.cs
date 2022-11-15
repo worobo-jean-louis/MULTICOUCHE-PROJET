@@ -13,7 +13,7 @@ namespace Hotel_Reservation
 {
     public partial class Chambres : Form
     {
-        /*ateTime date = DateTime.Now;*/
+        bool exitApp = true;
 
         public Chambres()
         {
@@ -21,41 +21,26 @@ namespace Hotel_Reservation
 
         }
 
-       
-
-        private void lbl_hC_Click(object sender, EventArgs e)
+   
+        private void btn_save_Click(object sender, EventArgs e)
         {
-            DateTime date = DateTime.UtcNow;
-
-            lbl_hC.Text = date.ToString("h:mm:ss");
-        }
-
-        private void Menu_Deroule_Click(object sender, EventArgs e)
-        {
-            if (panel_Menu.Width == 0)
+            if(txtnumCh.Text =="" && txtcategorie.Text == "" && txtstatut.Text == "")
             {
-                panel_Menu.Width = 126;
-                btn_logout.Location = new Point(30, 609);
+                MessageBox.Show("Champs vide !", "Remplissez les Champs", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
-                panel_Menu.Width = 0;
-                btn_logout.Location = new Point(30, 304);
+                MessageBox.Show("Données prises en compte","Enregistrement",MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-
-            if (panel_Menu.Height == 0)
-            {
-                panel_Menu.Height = 449;
-                btn_logout.Location = new Point(30, 609);
-            }
-            else
-            {
-                panel_Menu.Height = 0;
-                btn_logout.Location = new Point(30, 304);
-            }
-            
-           
-            
         }
+
+        private void btn_annuller_Click(object sender, EventArgs e)
+        {
+            txtstatut.Text = "";
+            txtnumCh.Text = "";
+            txtcategorie.Text = "";
+        }
+
+      
     }
 }

@@ -18,20 +18,6 @@ namespace Hotel_Reservation.Views
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox8_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label7_Click(object sender, EventArgs e)
-        {
-            DateTime date = DateTime.Now;
-            lbl_h.Text = date.ToString("h:mm:ss");
-        }
+  
     }
 }

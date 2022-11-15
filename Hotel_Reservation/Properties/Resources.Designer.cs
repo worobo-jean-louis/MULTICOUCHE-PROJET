@@ -63,6 +63,26 @@ namespace Hotel_Reservation.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap blueHotel {
+            get {
+                object obj = ResourceManager.GetObject("blueHotel", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hot {
+            get {
+                object obj = ResourceManager.GetObject("hot", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_categorize_40px {
             get {
                 object obj = ResourceManager.GetObject("icons8_categorize_40px", resourceCulture);
@@ -226,6 +246,36 @@ namespace Hotel_Reservation.Properties {
         internal static System.Drawing.Bitmap icons8_warehouse_64px1 {
             get {
                 object obj = ResourceManager.GetObject("icons8_warehouse_64px1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ORIGINQL {
+            get {
+                object obj = ResourceManager.GetObject("ORIGINQL", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sans_titre_1 {
+            get {
+                object obj = ResourceManager.GetObject("Sans titre-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap template {
+            get {
+                object obj = ResourceManager.GetObject("template", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
