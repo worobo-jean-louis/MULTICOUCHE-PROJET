@@ -10,13 +10,11 @@ using System.Windows.Forms;
 
 namespace Hotel_Reservation.Views
 {
-    public partial class Cathegorie : Form
+    public partial class Authentification : Form
     {
-        public Cathegorie()
+        public Authentification()
         {
             InitializeComponent();
         }
-
-       
     }
 }
