@@ -37,6 +37,11 @@
             // 
             // guna2ProgressBar1
             // 
+            this.guna2ProgressBar1.BorderColor = System.Drawing.Color.RoyalBlue;
+            this.guna2ProgressBar1.BorderRadius = 3;
+            this.guna2ProgressBar1.BorderStyle = System.Drawing.Drawing2D.DashStyle.Custom;
+            this.guna2ProgressBar1.BorderThickness = 2;
+            this.guna2ProgressBar1.GradientMode = System.Drawing.Drawing2D.LinearGradientMode.ForwardDiagonal;
             this.guna2ProgressBar1.Location = new System.Drawing.Point(48, 285);
             this.guna2ProgressBar1.Name = "guna2ProgressBar1";
             this.guna2ProgressBar1.ProgressColor = System.Drawing.Color.RoyalBlue;
