@@ -263,6 +263,16 @@ namespace Hotel_Reservation.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap resize_hotel {
+            get {
+                object obj = ResourceManager.GetObject("resize_hotel", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Sans_titre_1 {
             get {
                 object obj = ResourceManager.GetObject("Sans titre-1", resourceCulture);

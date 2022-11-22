@@ -24,7 +24,7 @@ namespace Hotel_Reservation
    
         private void btn_save_Click(object sender, EventArgs e)
         {
-            if(txtnumCh.Text =="" && txtcategorie.Text == "" && txtstatut.Text == "")
+            if(txtnumCh.Text ==""  && txtstatut.Text == "")
             {
                 MessageBox.Show("Champs vide !", "Remplissez les Champs", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -38,7 +38,6 @@ namespace Hotel_Reservation
         {
             txtstatut.Text = "";
             txtnumCh.Text = "";
-            txtcategorie.Text = "";
         }
 
       
